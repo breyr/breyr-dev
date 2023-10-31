@@ -1,5 +1,6 @@
 @import url('https://fonts.googleapis.com/css?family=Poppins');
 @import url('https://fonts.googleapis.com/css?family=Questrial');
+@import url('https://fonts.googleapis.com/css2?family=Barlow:wght@300;400;700&display=swap');
 
 body {
   margin: 0%;
@@ -76,7 +77,7 @@ body {
   font-size: 50px;
   color: #e4e4e4;
   font-weight: bold;
-  font-family: 'Questrial', sans-serif;
+  font-family: 'Barlow', sans-serif;
 }
 
 .emoji {
